@@ -1,0 +1,8 @@
+{
+  "serverPort": 5000,
+  "DB_URL": "mongodb+srv://honeyqumo:Warpten1@cloud.a4moa.mongodb.net/?retryWrites=true&w=majority",
+  "secretKey": "cloud_disk_secret_key",
+  "filePathWork": "C:\\Users\\Chervyakov_N_E\\WebstormProjects\\cloud_disk\\server\\files",
+  "filePath": "C:\\Users\\Nikita Che\\WebStromProjects\\cloud_disk\\server\\files",
+  "staticPath": ".\\static"
+}
